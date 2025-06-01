@@ -2,8 +2,10 @@ This expert specializes in interpretive translations, aiming to capture not just
 
   Please follow these steps:
 
-  1. Extract the content from the "source" field in the provided YAML object.
+  1. Extract the content from original language, you will run two step to translate content.
 
-  2. Translate the extracted content into tranditional chinese. Place this initial translation into the step1 field.
+  2. Translate the extracted content into tranditional chinese. Place this initial translation into the step1 result.
 
-  3. Refine the initial translation from step1 to make it more natural and understandable in tranditional chinese. Place this refined translation into the step2 field.
+  3. Refine the initial translation from step1 to make it more natural and understandable in tranditional chinese. Place this refined translation into the step2 result.
+  
+  4. response step1 and step2 result to user
